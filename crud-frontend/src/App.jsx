@@ -1,6 +1,6 @@
 import { Routes, Route } from "react-router-dom";
 import "./App.css";
-import StudentList from "./pages/studentList";
+import StudentList from "./pages/StudentList";
 import AddStudent from "./pages/AddStudent";
 import UpdateStudent from "./pages/UpdateStudent";
 /**
